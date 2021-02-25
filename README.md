@@ -1,2 +1,0 @@
-# simplecustomloadingscreentutorial
-here ya go
